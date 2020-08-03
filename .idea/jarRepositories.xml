@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="remote-repos" />
+      <option name="name" value="remote-repos" />
+      <option name="url" value="https://artifactory-ren.broadcom.net/artifactory/remote-repos" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="saep-maven-release" />
+      <option name="name" value="saep-maven-release" />
+      <option name="url" value="https://artifactory-ren.broadcom.net/artifactory/saep-maven-release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cc-enterprise-snapshot" />
+      <option name="name" value="cc-enterprise-snapshot" />
+      <option name="url" value="https://artifactory-ren.broadcom.net/artifactory/cc-enterprise-snapshot/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="epmp-snapshots" />
+      <option name="name" value="epmp-snapshots" />
+      <option name="url" value="https://artifactory-ren.broadcom.net/artifactory/epmp-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="sepc-staging" />
+      <option name="name" value="sepc-staging" />
+      <option name="url" value="https://artifactory-ren.broadcom.net/artifactory/sepc-staging/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cc-enterprise-release" />
+      <option name="name" value="cc-enterprise-release" />
+      <option name="url" value="https://artifactory-ren.broadcom.net/artifactory/cc-enterprise-release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cdm-maven-snapshot" />
+      <option name="name" value="cdm-maven-snapshot" />
+      <option name="url" value="https://artifactory-ren.broadcom.net/artifactory/cdm-maven-snapshot/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="alliance-release" />
+      <option name="name" value="alliance-release" />
+      <option name="url" value="https://artifactory-ren.broadcom.net/artifactory/alliance-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="epmp-thirdparty" />
+      <option name="name" value="epmp-thirdparty" />
+      <option name="url" value="https://artifactory-ren.broadcom.net/artifactory/epmp-thirdparty" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="modern-evergreen-maven-release" />
+      <option name="name" value="modern-evergreen-maven-release" />
+      <option name="url" value="https://artifactory-ren.broadcom.net/artifactory/modern-evergreen-maven-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="epmp-releases" />
+      <option name="name" value="epmp-releases" />
+      <option name="url" value="https://artifactory-ren.broadcom.net/artifactory/epmp-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="sepc-snapshot" />
+      <option name="name" value="sepc-snapshot" />
+      <option name="url" value="https://artifactory-ren.broadcom.net/artifactory/sepc-snapshot/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="saep-maven-snapshot" />
+      <option name="name" value="saep-maven-snapshot" />
+      <option name="url" value="https://artifactory-ren.broadcom.net/artifactory/saep-maven-snapshot/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="sepc-release" />
+      <option name="name" value="sepc-release" />
+      <option name="url" value="https://artifactory-ren.broadcom.net/artifactory/sepc-release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cdm-maven-release" />
+      <option name="name" value="cdm-maven-release" />
+      <option name="url" value="https://artifactory-ren.broadcom.net/artifactory/cdm-maven-release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="spoc-repo" />
+      <option name="name" value="spoc-repo" />
+      <option name="url" value="https://artifactory-ren.broadcom.net/artifactory/ncs" />
+    </remote-repository>
+  </component>
+</project>
